@@ -6,4 +6,3 @@ Sesión de 02/02/2016
 *Mishel
 *Pao
 *Didier
-*Chino
