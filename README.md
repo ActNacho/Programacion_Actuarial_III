@@ -1,8 +1,21 @@
-# Programacion_Actuarial_III
+---
+output: 
+  html_document: 
+    theme: cerulean
+---
+# Benemérita Universidad Autónoma de Puebla
+## Facultad de Ciencias Físico Matemáticas
+### Licenciatura en Actuaría
+#### Programacion_Actuarial_III
+
 Primavera 2016
 
-Sesión de 02/02/2016
-*Diego
-*Mishel
-*Pao
-*Didier
+Días de la semana
+
+* Lunes
+* Martes
+* Miércoles
+* Jueves
+* Viernes
+* Sábado
+* Domingo
